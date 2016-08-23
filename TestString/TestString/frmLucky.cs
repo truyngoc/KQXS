@@ -69,7 +69,7 @@ namespace TestString
 
         private void backgroundWorker1_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
         {
-            MessageBox.Show("Xong rồi!");
+            MessageBox.Show("Xong rồi đấy!");
         }
 
 
